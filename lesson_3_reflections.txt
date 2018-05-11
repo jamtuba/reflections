@@ -5,3 +5,7 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	For at være sikker på der ikke er lavet ændringer fra andre brugere eller at den overskriver opdatere filer på denne computer
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks er til deling og samarbejde på diverse commits, clones er hvis du skal have en clon og vil arbejde i en ny retning på en andens projekt, branches er en eller flere nye retninger på et givet projekt. 
